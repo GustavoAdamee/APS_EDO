@@ -43,9 +43,12 @@ ax = fig.add_subplot(111)
 
 
 import pendulum as p
+
 # Create the pendulums array
 array_penduluns = []
+
 # Set the pendulums initial conditions
+# Here we have 5 pendulums with different initial conditions
 for i in range(0, 6):
     # Add some random angle to the initial conditions variating from -0.001 to 0.001 (very small changes)
     random_angle_1 = random.uniform(-0.001, 0.001)
