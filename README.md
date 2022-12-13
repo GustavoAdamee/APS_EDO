@@ -4,4 +4,4 @@ Project made for an university subject (diffetential equations)
 
 The code creates a series of images an then build a gif with then simulating double penduluns.
 
-![](https://github.com/Double-Pendulum/pendulum.gif)
+![](https://github.com/GustavoAdamee/Double-Pendulum/blob/master/pendulum.gif)
